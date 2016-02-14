@@ -409,3 +409,6 @@
 - name: HolidayCheck
   url: https://www.holidaycheck.de/
   logo: holidaycheck.svg
+- name: BitMEX
+  url: https://www.bitmex.com
+  logo: bitmex.svg
